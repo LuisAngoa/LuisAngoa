@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @LuisAngoa
-- 👀 I'm interested in learning more about languages, putting them into practice and starting to work, I'm self-taught...
+- 👀 I'm Software Engineer
 - 🌱 I'm currently learning Java, Python, SQL, HTML, JavaScript, however I'm still looking for more knowledge...
 - 💞️ I'm looking to collaborate in Oracle...
-- 📫 How to contact me with my email luisangelsalvador5@gmail.com or my number
+- 📫 How to contact me with my email angoaangel2@gmail.com or my number +52 2471046153
 ..
 
 <!---
